@@ -11,17 +11,20 @@ const data = [
     title: "Standard",
     image: "https://links.papareact.com/3pn",
     screen: "MapScreen",
+    screen: "MapScreen",
   },
   {
     id: "1",
     title: "Business",
     image: "https://links.papareact.com/3pn",
     screen: "MapScreen",
+    screen: "MapScreen",
   },
   {
     id: "2",
     title: "First Class",
     image: "https://links.papareact.com/3pn",
+    screen: "MapScreen",
     screen: "MapScreen",
   },
 ];
@@ -74,4 +77,5 @@ export default function NavOptions() {
       )}
     />
   );
+}
 }
